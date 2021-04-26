@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqlLite</string>
+    <string name="nama">Nama</string>
+    <string name="telpon">Telpon</string>
+</resources>
